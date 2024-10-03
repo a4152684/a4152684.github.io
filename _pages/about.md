@@ -58,7 +58,7 @@ Chen Long, Wenxiao Zhang, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, **Zhen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/KT-Net.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='https://dongzhenwhu.github.io/publications/teasers/KT-Net.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion
