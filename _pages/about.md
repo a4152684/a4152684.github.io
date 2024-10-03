@@ -24,7 +24,7 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Our paper [LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds]([https://arxiv.org/pdf/2407.02887](https://www.sciencedirect.com/science/article/pii/S156984322400493X)) is accepted by JAG 2024!
+- *2024.09*: &nbsp;🎉🎉 Our paper [LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds](https://www.sciencedirect.com/science/article/pii/S156984322400493X) is accepted by JAG 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
 - *2022.11*: &nbsp;🎉🎉 Our paper [KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion](https://ojs.aaai.org/index.php/AAAI/article/view/25101) is accepted by AAAI 2023!
@@ -32,7 +32,20 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/Explicitly_Guided.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='publication/LaneMapping.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds
+
+Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, Zhen Cao, Chao Zheng, Jantien Stoter, Lianglinag Nan
+
+<span style="color:red">**JAG 2024 (IF: 7.5)**</span>
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S156984322400493X), [[Code]](https://github.com/MIXIAOXIN/LaneMapping)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='publication/Explicitly_Guided.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion
@@ -45,7 +58,7 @@ Hang Xu<sup>*</sup>, Chen Long<sup>*</sup>, Wenxiao Zhang<sup>&dagger;</sup>, Yu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='https://dongzhenwhu.github.io/publications/teasers/sparseDC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='publication/sparseDC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SparseDC: Depth Completion From Sparse and Non-uniform Inputs
@@ -58,7 +71,7 @@ Chen Long, Wenxiao Zhang, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, **Zhen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='https://dongzhenwhu.github.io/publications/teasers/KT-Net.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='publication/KT-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion
