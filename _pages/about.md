@@ -35,7 +35,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion
 
-Hang Xu<sup>*</sup>, **Chen Long<sup>*</sup>**, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, Zhen Cao, Zhen Dong, Bisheng Yang
+Hang Xu<sup>*</sup>, Chen Long<sup>*</sup>, Wenxiao Zhang<sup>&dagger;</sup>, Yuan Liu, **Zhen Cao**, Zhen Dong, Bisheng Yang
 
 <span style="color:red">**ECCV 2024 (CCF-B)**</span>
 
@@ -48,7 +48,7 @@ Hang Xu<sup>*</sup>, **Chen Long<sup>*</sup>**, Wenxiao Zhang<sup>&dagger;</sup>
 
 SparseDC: Depth Completion From Sparse and Non-uniform Inputs
 
-**Chen Long**, Wenxiao Zhang, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, Zhen Cao, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
+Chen Long, Wenxiao Zhang, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, **Zhen Cao**, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
 
 <span style="color:red">**Information Fusion (IF: 18.6)**</span>
 
