@@ -59,20 +59,20 @@ SparseDC: Depth Completion From Sparse and Non-uniform Inputs
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='https://dongzhenwhu.github.io/publications/teasers/PC2-PU.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsampling
+KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion
 
-**Chen Long<sup>*</sup>**, WenXiao Zhang<sup>*</sup>, Ruihui Li<sup>&dagger;</sup>, Hao Wang, Zhen Dong, Bisheng Yang
+**Zhen Cao<sup>*</sup>**, WenXiao Zhang<sup>*</sup>, Xin Wen<sup>&dagger;</sup>, Zhen Dong, Yu-Shen Liu, Xiongwu Xiao, Bisheng Yang
 
-<span style="color:red">**ACM MM 2022 (CCF-A)**</span>
+<span style="color:red">**AAAI 2023 (CCF-A)**</span>
 
-[[Paper]](https://doi.org/10.1145/3503161.3547777), [[Code]](https://github.com/chenlongwhu/PC2-PU)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25101), [[Code]](https://github.com/a4152684/KT-Net)
 </div>
 </div>
 
 # 🎖 Honors and Awards
 - *2021*, Outstanding Graduate of Wuhan University (Top 5%)
 - *2020*, Yong-Ling Chen Innovation & Learning Scholarship - First Class (Top 5%)
-- *2018 & 2019*, National Scholarship for Postgraduates (Top 3%)
+- *2018 \& 2019*, National Scholarship for Postgraduates (Top 3%)
 
 # 📖 Education
 - *2024 - Now*, LIESMARS, Wuhan University, Ph.D. in Photogrammetry and Remote Sensing
