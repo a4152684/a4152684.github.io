@@ -70,8 +70,11 @@ PC²-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsam
 </div>
 
 # 🎖 Honors and Awards
-- *2024.05*, 中国第一届空间信息技术及产业发展大会 "优秀学生报告(硕博生)"。
+- *2021*, Outstanding Graduate of Wuhan University (Top 5%)
+- *2020*, Yong-Ling Chen Innovation & Learning Scholarship - First Class (Top 5%)
+- *2018 & 2019*, National Scholarship for Postgraduates (Top 3%)
 
-# 💬 Conference oral presentation
-- *2024.05*, 中国第一届空间信息技术及产业发展大会
-- *2022.08*, 中国第七届计算机图形学与混合现实前沿研讨会
+# 📖 Education
+- *2024 - Now*, LIESMARS, Wuhan University, Ph.D. in Photogrammetry and Remote Sensing
+- *2021 - 2024*, LIESMARS, Wuhan University, M.S.(Trans. to Ph.D.) in Photogrammetry and Remote Sensing
+- *2017 - 2021*, SGG, Wuhan University, B.S. in Photogrammetry and Remote Sensing 
