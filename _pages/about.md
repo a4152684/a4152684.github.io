@@ -37,7 +37,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds
 
-Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, Zhen Cao, Chao Zheng, Jantien Stoter, Lianglinag Nan
+Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, **Zhen Cao**, Chao Zheng, Jantien Stoter, Lianglinag Nan
 
 <span style="color:red">**JAG 2024 (IF: 7.5)**</span>
 
