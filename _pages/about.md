@@ -56,7 +56,7 @@ SparseDC: Depth Completion From Sparse and Non-uniform Inputs
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='https://dongzhenwhu.github.io/publications/teasers/PC2-PU.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='https://dongzhenwhu.github.io/publications/teasers/KT-Net.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion
@@ -72,7 +72,7 @@ KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion
 # 🎖 Honors and Awards
 - *2021*, Outstanding Graduate of Wuhan University (Top 5%)
 - *2020*, Yong-Ling Chen Innovation & Learning Scholarship - First Class (Top 5%)
-- *2018 \& 2019*, National Scholarship for Postgraduates (Top 3%)
+- *2018 $\&$ 2019*, National Scholarship for Postgraduates (Top 3%)
 
 # 📖 Education
 - *2024 - Now*, LIESMARS, Wuhan University, Ph.D. in Photogrammetry and Remote Sensing
