@@ -39,7 +39,7 @@ LaneMapping: A benchmark approach and dataset for large-scale lane mapping from 
 
 Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, **Zhen Cao**, Chao Zheng, Jantien Stoter, Lianglinag Nan
 
-<span style="color:red">**JAG 2024 (IF: 7.5)**</span>
+<span style="color:red">**JAG 2024 (IF: 7.6)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S156984322400493X), [[Code]](https://github.com/MIXIAOXIN/LaneMapping)
 </div>
