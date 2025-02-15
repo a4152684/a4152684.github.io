@@ -38,7 +38,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 Cross-modal semantic transfer for point cloud semantic segmentation
 
-Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, **Zhen Cao**, Chao Zheng, Jantien Stoter, Lianglinag Nan
+**Zhen Cao<sup>*</sup>**, Xiaoxin Mi<sup>*</sup>, Bo Qiu, Zhipeng Cao, Chen Long, Xinrui Yan, Chao Zheng, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
 
 <span style="color:red">**ISPRS J (IF: 10.6)**</span>
 
@@ -51,7 +51,7 @@ Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, **Zhen Cao**, Chao Zheng, Jant
 
 LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds
 
-Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, **Zhen Cao**, Chao Zheng, Jantien Stoter, Lianglinag Nan
+Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang<sup>&dagger;</sup>, **Zhen Cao**, Chao Zheng, Jantien Stoter, Lianglinag Nan
 
 <span style="color:red">**JAG 2024 (IF: 7.6)**</span>
 
