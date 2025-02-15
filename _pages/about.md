@@ -24,6 +24,7 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper [Cross-modal semantic transfer for point cloud semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0924271625000243) is accepted by ISPRS J!
 - *2024.09*: &nbsp;🎉🎉 Our paper [LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds](https://www.sciencedirect.com/science/article/pii/S156984322400493X) is accepted by JAG 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
@@ -31,6 +32,19 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J</div><img src='publication/freeseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cross-modal semantic transfer for point cloud semantic segmentation
+
+Xiaoxin Mi, Zhen Dong, Zhipeng Cao, Bisheng Yang, **Zhen Cao**, Chao Zheng, Jantien Stoter, Lianglinag Nan
+
+<span style="color:red">**ISPRS J (IF: 10.6)**</span>
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271625000243), [[Code]](https://github.com/a4152684/StreetSeg)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='publication/LaneMapping.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
