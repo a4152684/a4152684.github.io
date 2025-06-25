@@ -40,7 +40,7 @@ Cross-modal semantic transfer for point cloud semantic segmentation
 
 **Zhen Cao<sup>*</sup>**, Xiaoxin Mi<sup>*</sup>, Bo Qiu, Zhipeng Cao, Chen Long, Xinrui Yan, Chao Zheng, Zhen Dong<sup>&dagger;</sup>, Bisheng Yang
 
-<span style="color:red">**ISPRS J (IF: 10.6)**</span>
+<span style="color:red">**ISPRS J (IF: 12.2)**</span>
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271625000243), [[Code]](https://github.com/a4152684/StreetSeg)
 </div>
