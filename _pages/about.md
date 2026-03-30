@@ -24,6 +24,7 @@ My research interest lies in the field of 3D Computer Vision, particularly inclu
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper [Denoise and Align: Towards Source-Free UDA for Robust Panoramic Semantic Segmentation]([https://www.sciencedirect.com/science/article/pii/S0924271625000243](https://arxiv.org/abs/2603.25131)) is accepted by CVPR 2026!
 - *2025.02*: &nbsp;🎉🎉 Our paper [Cross-modal semantic transfer for point cloud semantic segmentation](https://www.sciencedirect.com/science/article/pii/S0924271625000243) is accepted by ISPRS J!
 - *2024.09*: &nbsp;🎉🎉 Our paper [LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds](https://www.sciencedirect.com/science/article/pii/S156984322400493X) is accepted by JAG 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
@@ -32,6 +33,19 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 # 📝 Publications
 \* denotes equal contributions and † denotes the corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='publication/freeseg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Denoise and Align: Towards Source-Free UDA for Robust Panoramic Semantic Segmentation
+
+Yaowen Chang<sup>*</sup>, **Zhen Cao<sup>*</sup>**, Xu Zheng, Xiaoxin Mi,Zhen Dong<sup>&dagger;</sup>
+
+<span style="color:red">**CVPR 2026 (CCF-A)**</span>
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271625000243), [[Code]](https://github.com/a4152684/StreetSeg)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J</div><img src='publication/freeseg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
