@@ -41,7 +41,7 @@ Denoise and Align: Towards Source-Free UDA for Robust Panoramic Semantic Segment
 
 Yaowen Chang<sup>*</sup>, **Zhen Cao<sup>*</sup>**, Xu Zheng, Xiaoxin Mi,Zhen Dong<sup>&dagger;</sup>
 
-<span style="color:red">**CVPR 2026 (CCF-A, **Highlight**)**</span>
+<span style="color:red">**CVPR 2026 (CCF-A, Highlight)**</span>
 
 [[Paper]](https://arxiv.org/abs/2603.25131), [[Code]](https://github.com/ZZZPhaethon/DAPASS)
 </div>
